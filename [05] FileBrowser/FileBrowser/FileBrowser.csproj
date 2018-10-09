@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB7883FE-D6CC-4613-B583-FF54B4A2A651}</ProjectGuid>
+    <ProjectGuid>{A7B828FA-F0E9-41B0-9838-B94CE5C34919}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IEnumerableDemo</RootNamespace>
-    <AssemblyName>IEnumerableDemo</AssemblyName>
+    <RootNamespace>FileBrowser</RootNamespace>
+    <AssemblyName>FileBrowser</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,10 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exam.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Question.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

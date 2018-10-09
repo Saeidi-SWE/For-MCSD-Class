@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icomparable", "Icomparable\Icomparable.csproj", "{9544CD3D-532E-49D8-BD11-AF2D2D7D732D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableDemo", "IEnumerableDemo\IEnumerableDemo.csproj", "{AB7883FE-D6CC-4613-B583-FF54B4A2A651}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{9544CD3D-532E-49D8-BD11-AF2D2D7D732D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9544CD3D-532E-49D8-BD11-AF2D2D7D732D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9544CD3D-532E-49D8-BD11-AF2D2D7D732D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB7883FE-D6CC-4613-B583-FF54B4A2A651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB7883FE-D6CC-4613-B583-FF54B4A2A651}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB7883FE-D6CC-4613-B583-FF54B4A2A651}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB7883FE-D6CC-4613-B583-FF54B4A2A651}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
