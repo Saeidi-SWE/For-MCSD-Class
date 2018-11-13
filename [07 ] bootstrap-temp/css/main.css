@@ -1,0 +1,11 @@
+﻿@import url('../fonts/vazir.css');
+
+body {
+    direction: rtl !important;
+    font-family: Vazir !important;
+}
+
+header {
+    direction: rtl !important;
+    font-family: Vazir !important;
+}

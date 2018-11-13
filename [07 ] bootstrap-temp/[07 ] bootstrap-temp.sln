@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "startbootstrap-clean-blog-gh-pages", ".", "{CE323635-7A49-4BA9-8A36-A01A700B58BB}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "[07 ] bootstrap-temp", ".", "{5228F090-F77A-4078-93CF-0546B2BCBAD9}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_2840"
-		Debug.AspNetCompiler.PhysicalPath = "..\startbootstrap-clean-blog-gh-pages\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2840\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4447"
+		Debug.AspNetCompiler.PhysicalPath = "..\[07 ] bootstrap-temp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4447\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_2840"
-		Release.AspNetCompiler.PhysicalPath = "..\startbootstrap-clean-blog-gh-pages\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2840\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4447"
+		Release.AspNetCompiler.PhysicalPath = "..\[07 ] bootstrap-temp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4447\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "2840"
-		SlnRelativePath = "..\startbootstrap-clean-blog-gh-pages\"
+		VWDPort = "4447"
+		SlnRelativePath = "..\[07 ] bootstrap-temp\"
 	EndProjectSection
 EndProject
 Global
@@ -29,13 +29,13 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE323635-7A49-4BA9-8A36-A01A700B58BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE323635-7A49-4BA9-8A36-A01A700B58BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5228F090-F77A-4078-93CF-0546B2BCBAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5228F090-F77A-4078-93CF-0546B2BCBAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DEEEA38F-365B-4F9B-B19A-C8A6B3C686E9}
+		SolutionGuid = {07CB75C0-CD27-4688-B08F-C049C6E50C8E}
 	EndGlobalSection
 EndGlobal
